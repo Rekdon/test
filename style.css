@@ -1,0 +1,23 @@
+.centered {
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    width: 450px;
+    height: 500px;
+    margin: -50px 0 0 -100px;
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.checkBox {
+    background: #41EBC3;
+}
+
+.addTask {
+    position: absolute;
+    left: 20%;
+    background: #F5C971;
+    height: 160px;
+    width: 60%;
+    text-align: center;
+}
